@@ -15,3 +15,4 @@
 * Sebastian
 * Nathan Kear
 * Lincoln
+* Shaowei(Lucas) Huang
