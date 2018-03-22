@@ -2,6 +2,15 @@
 
 ## University of Auckland Students!
 * Suki 
-* Nathan Kear
 * Ben P.
 * Sophie
+* Mikyla
+* Stanislav
+* Purnesh
+* Geordie
+* Layton
+* Anthony
+* Cam
+* Uros
+* Sebastian
+* Nathan Kear
