@@ -3,3 +3,6 @@
 ## University of Auckland Students!
 * Suki 
 * Purnesh
+* Ben P.
+* Sophie
+
