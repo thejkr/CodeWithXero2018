@@ -2,4 +2,17 @@
 
 ## University of Auckland Students!
 * Suki 
-*Shaowei(Lucas) Huang
+* Ben P.
+* Sophie
+* Mikyla
+* Stanislav
+* Purnesh
+* Geordie
+* Layton
+* Anthony
+* Cam
+* Uros
+* Sebastian
+* Nathan Kear
+* Lincoln
+* Shaowei(Lucas) Huang
