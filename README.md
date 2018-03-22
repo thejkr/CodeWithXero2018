@@ -3,3 +3,5 @@
 ## University of Auckland Students!
 * Suki 
 * Geordie
+* Ben P.
+* Sophie
