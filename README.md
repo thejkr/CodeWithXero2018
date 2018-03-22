@@ -2,4 +2,4 @@
 
 ## University of Auckland Students!
 * Suki 
-* VeraQ
+* VeraQQ
