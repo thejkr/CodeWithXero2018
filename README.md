@@ -2,6 +2,4 @@
 
 ## University of Auckland Students!
 * Suki 
-* Sophie
-
-
+* Andrew 
