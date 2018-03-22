@@ -30,3 +30,4 @@
 * Hajar
 * Dennis
 * Josh Espinas
+* VeraQQ
