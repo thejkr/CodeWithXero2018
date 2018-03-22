@@ -1,7 +1,10 @@
 # CodeWithXero2018
 
 ## University of Auckland Students!
-* Suki 
-* Geordie
+* Suki
 * Ben P.
 * Sophie
+* Mikyla
+* Stanislav
+* Purnesh
+* Geordie
