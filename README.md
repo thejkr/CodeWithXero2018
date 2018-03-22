@@ -2,4 +2,13 @@
 
 ## University of Auckland Students!
 * Suki 
+* Ben P.
+* Sophie
+* Mikyla
+* Stanislav
+* Purnesh
+* Geordie
+* Layton
+* Anthony
+* Cam
 * Uros
