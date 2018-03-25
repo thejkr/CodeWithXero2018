@@ -34,3 +34,5 @@
 * VeraQQ
 * Victor Yin
 * Luoming Liang
+
+## University of Waikato Students!
