@@ -42,3 +42,5 @@
 * Arun 
 * Daniel Oosterwijk
 * Yung Lean
+* Tristan Anderson
+* Sorrel Gomez
