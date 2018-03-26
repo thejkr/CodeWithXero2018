@@ -37,3 +37,6 @@
 
 ## University of Waikato Students!
 * Paul Jones
+* Nicole Chan
+* Andrew Tay
+* Arun 
