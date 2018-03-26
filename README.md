@@ -36,3 +36,4 @@
 * Luoming Liang
 
 ## University of Waikato Students!
+* Paul Jones
