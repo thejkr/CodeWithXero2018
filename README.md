@@ -37,3 +37,5 @@
 
 ## University of Waikato Students!
 * Arun 
+* Xirui
+* Joseph
