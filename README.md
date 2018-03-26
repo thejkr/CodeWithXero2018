@@ -37,4 +37,4 @@
 
 ## University of Waikato Students!
 
-*Bernard
+* Bernard
