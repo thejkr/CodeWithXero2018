@@ -45,3 +45,4 @@
 * Tristan Anderson
 * Sorrel Gomez
 * Ke$hav
+* Bernard
