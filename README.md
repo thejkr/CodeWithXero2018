@@ -36,5 +36,8 @@
 * Luoming Liang
 
 ## University of Waikato Students!
-
+* Paul Jones
+* Nicole Chan
+* Andrew Tay
+* Arun 
 * Daniel Oosterwijk
