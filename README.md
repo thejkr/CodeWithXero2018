@@ -36,4 +36,5 @@
 * Luoming Liang
 
 ## University of Waikato Students!
+* Andrew Tay
 * Arun 
