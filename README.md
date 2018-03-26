@@ -40,6 +40,8 @@
 * Nicole Chan
 * Andrew Tay
 * Arun 
+* Xirui
+* Joseph
 * Daniel Oosterwijk
 * Yung Lean
 * Tristan Anderson
