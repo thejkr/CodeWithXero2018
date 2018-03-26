@@ -36,3 +36,5 @@
 * Luoming Liang
 
 ## University of Waikato Students!
+
+*Bernard
