@@ -49,4 +49,4 @@
 * Ke$hav
 * Bernard
 
-## AUT University Students
+## Otago University Students
